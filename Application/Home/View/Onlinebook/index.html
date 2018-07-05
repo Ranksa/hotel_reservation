@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>酒店管理系统</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/js/check_input.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/js/jquery.js"></script>
+</head>
+<body>
+<include file="Public/head" />
+<div class="container clearfix">
+
+    <!--/sidebar-->
+    <div >
+        <div class="crumb-wrap">
+            <div class="crumb-list">
+                <a href="__MODULE__/index/">网站首页</a>
+                <span class="crumb-step">&gt;</span>
+                <span >在线预订</span>
+                <!--         </div> -->
+            </div>
+            <div class="search-wrap">
+                <div class="search-content">
+                    <form action="__MODULE__/Onlinebook/Onlinebook" method="post">
+                        <table class="search-tab" >
+                            <tr>
+                                <th width="240" >查询条件:</th>
+                                <td>
+                                    <select name="search-type" id=""  >
+                                        <option value="typename" selected>单/双/标/豪人</option>
+
+                                    </select>
+                                </td>
+                                <th width="100">关键字:</th>
+                                <td><input class="common-text"   type="text" placeholder="请输入查询条件" name="keywords"  ></td>
+                                <td ><input class="btn btn-primary btn-sm " type="submit" name="sub" value="查询空闲房间" ></td>
+                            </tr>
+                        </table>
+                    </form>
+                </div>
+            </div>
+
+
+            <div class="result-wrap">
+                <div class="result-content">
+                    <table class="result-tab table" width="100%">
+                        <tr>
+
+                            <th class="tc">类型名称</th>
+                            <th class="tc">房间面积</th>
+                            <th class="tc">床位数量</th>
+                            <th class="tc">早餐</th>
+                            <th class="tc">网络</th>
+                            <th class="tc">电视</th>
+                            <th class="tc">独卫</th>
+                            <th class="tc">价格</th>
+                            <th class="tc">房间号</th>
+                            <th class="tc">操&emsp;&emsp;作</th>
+                        </tr>
+                    </table>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!--/main-->
+    </div>
+</body>
+</html>
+

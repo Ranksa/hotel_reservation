@@ -1,0 +1,239 @@
+<?php if (!defined('THINK_PATH')) exit();?>﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://localhost:8088/thinkphp_hotel/Application/Home/Public/css/Canvas_style.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost:8088/thinkphp_hotel/Application/Home/Public/css/svg_style.css">
+  <script src='http://www.5iweb.com.cn/statics/js/jquery.1.7.1.min.js'></script>
+  <link rel="stylesheet" href="http://localhost:8088/thinkphp_hotel/Application/Home/Public/css/index.css">
+  <title>酒店预订系统</title>
+</head>
+<body>
+<div id="menu">
+  <div class="hamburger">
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+  </div>
+  <div class="menu-inner">
+
+    <ul>
+      <li></li>
+      <li></li>
+      <li><a href="/thinkphp_hotel/Home/index">首页</a></li>
+      <li><a href="/thinkphp_hotel/Home/Onlinebook/">在线预订</a></li>
+      <li><a href="/thinkphp_hotel/Home/Search/">订票查询</a></li>
+      <li><a href="/thinkphp_hotel/Admin/Index/login">酒店管理</a></li>
+      <li><a href="/thinkphp_hotel/Home/About">关于我们</a></li>
+
+    </ul>
+  </div>
+  <svg version="1.1" id="blob"xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path id="blob-path" d="M60,500H0V0h60c0,0,20,172,20,250S60,900,60,500z"/>
+  </svg>
+</div>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src="http://localhost:8088/thinkphp_hotel/Application/Home/Public/js/svg_index.js"></script>
+
+<div class="topbar-wrap">
+  <div class="topbar-inner">
+  </div>
+</div>
+<div class="scroll-bar">
+  <div class="container">
+    <div id="slide" class="slide index-slide" alt="star">
+      <!-- 轮播图片数量可自行增减 -->
+      <div class="img"><img src="http://localhost:8088/thinkphp_hotel/Application/Home/Public/images/r1.jpg"/></div>
+      <div class="img"><img src="http://localhost:8088/thinkphp_hotel/Application/Home/Public/images/r2.jpg"/></div>
+      <div class="img"><img src="http://localhost:8088/thinkphp_hotel/Application/Home/Public/images/r3.jpg"/></div>
+      <div class="img"><img src="http://localhost:8088/thinkphp_hotel/Application/Home/Public/images/r4.jpg"/></div>
+      <div class="img"><img src="http://localhost:8088/thinkphp_hotel/Application/Home/Public/images/r5.jpg"/></div>
+      <div class="img"><img src="http://localhost:8088/thinkphp_hotel/Application/Home/Public/images/r6.jpg"/></div>
+      <div class="img"><img src="http://localhost:8088/thinkphp_hotel/Application/Home/Public/images/r7.jpg"/></div>
+      <div class="slide-bt"></div>
+    </div>
+  </div>
+  <div style="width: 100%; height: auto; line-height: 25px; text-align: center;">
+    <script>
+        var autoLb = false;          //autoLb=true为开启自动轮播
+        var autoLbtime = 1;         //autoLbtime为轮播间隔时间（单位秒）
+        var touch = true;           //touch=true为开启触摸滑动
+        var slideBt = true;         //slideBt=true为开启滚动按钮
+        var slideNub;               //轮播图片数量
+
+        //窗口大小改变时改变轮播图宽高
+        $(window).resize(function(){
+            $(".slide").height($(".slide").width()*0.56);
+        });
+
+
+        $(function(){
+            $(".slide").height($(".slide").width()*0.56);
+            slideNub = $(".slide .img").size();             //获取轮播图片数量
+            for(i=0;i<slideNub;i++){
+                $(".slide .img:eq("+i+")").attr("data-slide-imgId",i);
+            }
+
+
+            //根据轮播图片数量设定图片位置对应的class
+            if(slideNub==1){
+                for(i=0;i<slideNub;i++){
+                    $(".slide .img:eq("+i+")").addClass("img3");
+                }
+            }
+            if(slideNub==2){
+                for(i=0;i<slideNub;i++){
+                    $(".slide .img:eq("+i+")").addClass("img"+(i+3));
+                }
+            }
+            if(slideNub==3){
+                for(i=0;i<slideNub;i++){
+                    $(".slide .img:eq("+i+")").addClass("img"+(i+2));
+                }
+            }
+            if(slideNub>3&&slideNub<6){
+                for(i=0;i<slideNub;i++){
+                    $(".slide .img:eq("+i+")").addClass("img"+(i+1));
+                }
+            }
+            if(slideNub>=6){
+                for(i=0;i<slideNub;i++){
+                    if(i<5){
+                        $(".slide .img:eq("+i+")").addClass("img"+(i+1));
+                    }else{
+                        $(".slide .img:eq("+i+")").addClass("img5");
+                    }
+                }
+            }
+
+
+            //根据轮播图片数量设定轮播图按钮数量
+            if(slideBt){
+                for(i=1;i<=slideNub;i++){
+                    $(".slide-bt").append("<span data-slide-bt='"+i+"' onclick='tz("+i+")'></span>");
+                }
+                $(".slide-bt").width(slideNub*34);
+                $(".slide-bt").css("margin-left","-"+slideNub*17+"px");
+            }
+
+
+            //自动轮播
+            if(autoLb){
+                setInterval(function(){
+                    right();
+                }, autoLbtime*1000);
+            }
+
+
+            if(touch){
+                k_touch();
+            }
+            slideLi();
+            imgClickFy();
+        })
+
+
+        //右滑动
+        function right(){
+            var fy = new Array();
+            for(i=0;i<slideNub;i++){
+                fy[i]=$(".slide .img[data-slide-imgId="+i+"]").attr("class");
+            }
+            for(i=0;i<slideNub;i++){
+                if(i==0){
+                    $(".slide .img[data-slide-imgId="+i+"]").attr("class",fy[slideNub-1]);
+                }else{
+                    $(".slide .img[data-slide-imgId="+i+"]").attr("class",fy[i-1]);
+                }
+            }
+            imgClickFy();
+            slideLi();
+        }
+
+
+        //左滑动
+        function left(){
+            var fy = new Array();
+            for(i=0;i<slideNub;i++){
+                fy[i]=$(".slide .img[data-slide-imgId="+i+"]").attr("class");
+            }
+            for(i=0;i<slideNub;i++){
+                if(i==(slideNub-1)){
+                    $(".slide .img[data-slide-imgId="+i+"]").attr("class",fy[0]);
+                }else{
+                    $(".slide .img[data-slide-imgId="+i+"]").attr("class",fy[i+1]);
+                }
+            }
+            imgClickFy();
+            slideLi();
+        }
+
+
+        //轮播图片左右图片点击翻页
+        function imgClickFy(){
+            $(".slide .img").removeAttr("onclick");
+            $(".slide .img2").attr("onclick","left()");
+            $(".slide .img4").attr("onclick","right()");
+        }
+
+
+        //修改当前最中间图片对应按钮选中状态
+        function slideLi(){
+            var slideList = parseInt($(".slide .img3").attr("data-slide-imgId")) + 1;
+            $(".slide-bt span").removeClass("on");
+            $(".slide-bt span[data-slide-bt="+slideList+"]").addClass("on");
+        }
+
+
+        //轮播按钮点击翻页
+        function tz(id){
+            var tzcs = id - (parseInt($(".slide .img3").attr("data-slide-imgId")) + 1);
+            if(tzcs>0){
+                for(i=0;i<tzcs;i++){
+                    setTimeout(function(){
+                        right();
+                    },1);
+                }
+            }
+            if(tzcs<0){
+                tzcs=(-tzcs);
+                for(i=0;i<tzcs;i++){
+                    setTimeout(function(){
+                        left();
+                    },1);
+                }
+            }
+            slideLi();
+        }
+
+
+        //触摸滑动模块
+        function k_touch() {
+            var _start = 0, _end = 0, _content = document.getElementById("slide");
+            _content.addEventListener("touchstart", touchStart, false);
+            _content.addEventListener("touchmove", touchMove, false);
+            _content.addEventListener("touchend", touchEnd, false);
+            function touchStart(event) {
+                var touch = event.targetTouches[0];
+                _start = touch.pageX;
+            }
+            function touchMove(event) {
+                var touch = event.targetTouches[0];
+                _end = (_start - touch.pageX);
+            }
+
+            function touchEnd(event) {
+                if (_end < -100) {
+                    left();
+                    _end=0;
+                }else if(_end > 100){
+                    right();
+                    _end=0;
+                }
+            }
+        }
+
+    </script>
+</body>
+</html>

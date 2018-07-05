@@ -1,0 +1,113 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>酒店后台管理</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+</head>
+<body>
+<include file="Public/head" />
+<div class="container clearfix">
+    <include file="Public/left" />
+    <include file="Public/right" />
+    <!--/sidebar-->
+    <div class="main-wrap">
+        <div class="crumb-wrap">
+            <div class="crumb-list"><i class="icon-font"></i><a href="__MODULE__/index">后台管理</a><span class="crumb-step">&gt;</span><span class="crumb-name">退房清算</span></div>
+        </div>
+        <center>
+            <div class="search-wrap">
+                <div class="search-content">
+                    <form action="__MODULE__/Checkout/checkout" method="post">
+                        <table class="search-tab">
+                            <tr>
+                                <th>请输入房间号</th>
+                                <td><input class="common-text" placeholder="房间号" name="roomid" value="" id="" type="text"></td>
+                                <td><input class="btn btn-primary btn2" name="sub" value="查询" type="submit"></td>
+                            </tr>
+                        </table>
+                    </form>
+                </div>
+            </div>
+        </center>
+
+        <div class="result-wrap">
+            <div class="result-content">
+
+                <table class="result-tab" width="100%">
+                    <br><br>
+                    <tr>顾客信息如下，请确认：</tr>
+                    <br><br>
+                    <tr>
+                        <th class='tc'>证件类型</th>
+                        <th class='tc'>证件号码</th>
+                        <th class='tc'>客户姓名</th>
+                        <th class='tc'>客户性别</th>
+                    </tr>
+                    <volist name="list" id="vo">
+                        <tr>
+                        <th class='tc'>{$vo.cardtype}</th>
+                        <th class='tc'>{$vo.cardid}</th>
+                        <th class='tc'>{$vo.cname}</th>
+                        <th class='tc'>{$vo.csex}</th>
+                        </tr>
+                    </volist>
+                </table>
+
+                <table class="result-tab" width="100%">
+                    <br/>
+                    <br/><br/>
+                    <tr>入住信息如下，请确认：</tr>
+                    <br/><br/>
+                    <tr>
+                        <th class='tc'>订单流水号</th>
+                        <th class='tc'>房间号</th>
+                        <th class='tc'>入住时间</th>
+                        <th class='tc'>离开时间</th>
+                        <th class='tc'>住宿天数（天）</th>
+                        <th class='tc'>房间类型</th>
+                        <th class='tc'>房间价格（元/天）</th>
+                        <th class='tc'>消费金额（元）</th>
+                        <th class='tc'>网上预订</th>
+                        <th class='tc'>交易完成</th>
+                    </tr>
+                    <br/>
+                      <volist name="list" id="vo">
+                          <tr>
+                              <th class='tc'>{$vo.orderid}</th>
+                              <th class='tc'>{$vo.roomid}</th>
+                              <th class='tc'>{$vo.entertime}</th>
+                              <th class='tc'>{$vo.leavetime}</th>
+                              <th class='tc'>{$vo.datenum}</th>
+                              <th class='tc'>{$list2[0]['typename']}</th>
+                              <th class='tc'>{$list2[0]['price']}</th>
+                              <th class='tc'> {$monetary}</th>
+                              <th class='tc'>{$vo.ostatus}</th>
+                              <th class='tc'>{$vo.oremarks}</th>
+                          </tr>
+                          <tr>
+                              <th class='tc'></th>
+                              <th class='tc'></th>
+                              <th class='tc'></th>
+                              <th class='tc'></th>
+                              <th class='tc'></th>
+                              <th class='tc'>
+                                  <a href='__CONTROLLER__/out_update?crid={$vo.roomid}&money={$monetary}&typeid={$vo.typeid}&orderid={$vo.orderid}'
+                                 class='link-update'>确认退房</a></th>
+                              <th class='tc'></th>
+                              <th class='tc'></th>
+                              <th class='tc'></th>
+                              <th class='tc'></th>
+                          </tr>
+                      </volist>
+                </table>
+                <br/><br/> <br/><br/>
+            </div>
+        </div>
+    </div>
+    <!--/main-->
+</div>
+</body>
+</html>

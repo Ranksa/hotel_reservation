@@ -1,0 +1,2294 @@
+[ 2018-06-25T12:58:22+08:00 ] ::1 /thinkphp_hotel/lobby
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Lobby
+
+[ 2018-06-25T12:58:59+08:00 ] ::1 /thinkphp_hotel/lobby
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Lobby
+
+[ 2018-06-25T12:59:01+08:00 ] ::1 /thinkphp_hotel/lobby
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:Lobby
+
+[ 2018-06-25T12:59:33+08:00 ] ::1 /thinkphp_hotel/lobby
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+ERR: 无法加载模块:Lobby
+
+[ 2018-06-25T12:59:34+08:00 ] ::1 /thinkphp_hotel/lobby
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Lobby
+
+[ 2018-06-25T13:02:00+08:00 ] ::1 /thinkphp_hotel/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Lst
+
+[ 2018-06-25T13:15:30+08:00 ] ::1 /thinkphp_hotel/Public/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T13:15:30+08:00 ] ::1 /thinkphp_hotel/Public/js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T13:15:30+08:00 ] ::1 /thinkphp_hotel/Public/css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T13:20:35+08:00 ] ::1 /thinkphp_hotel/admin_addn.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Admin_addn
+
+[ 2018-06-25T13:51:46+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T14:00:32+08:00 ] ::1 /thinkphp_hotel/admin_addn.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载模块:Admin_addn
+
+[ 2018-06-25T14:05:44+08:00 ] ::1 /thinkphp_hotel/_MODULE_
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:_MODULE_
+
+[ 2018-06-25T14:07:22+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T14:09:16+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T14:12:56+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T14:38:08+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T14:41:20+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Publiccss/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T14:42:38+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T14:43:46+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T14:48:27+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T14:50:26+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T14:55:10+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T15:20:41+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T15:21:20+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001222s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T15:21:51+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T15:22:10+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T15:27:37+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T15:27:42+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T15:28:03+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T15:28:04+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T15:28:05+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T15:39:03+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T18:41:51+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T18:43:07+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T18:49:23+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T19:15:53+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T19:17:38+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:00:58+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:10:29+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:11:06+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:11:09+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:16:19+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003866s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:16:25+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:16:26+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:16:39+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:16:43+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:16:47+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:19:54+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:20:22+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000170s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001655s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:21:55+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:21:58+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:22:29+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:22:47+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:27:51+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:28:20+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:28:46+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:29:05+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:29:32+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:29:58+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:30:02+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:30:16+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:30:35+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:30:50+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:30:54+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:30:55+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:30:56+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:30:56+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:30:58+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:30:59+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:31:00+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:53:36+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T21:53:40+08:00 ] ::1 /thinkphp_hotel/Application/Admin/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:25:22+08:00 ] ::1 /thinkphp_hotel/Public/js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:22+08:00 ] ::1 /thinkphp_hotel/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:22+08:00 ] ::1 /thinkphp_hotel/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:22+08:00 ] ::1 /thinkphp_hotel/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:30+08:00 ] ::1 /thinkphp_hotel/Public/js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:30+08:00 ] ::1 /thinkphp_hotel/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:30+08:00 ] ::1 /thinkphp_hotel/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:31+08:00 ] ::1 /thinkphp_hotel/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:32+08:00 ] ::1 /thinkphp_hotel/Public/js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:32+08:00 ] ::1 /thinkphp_hotel/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:32+08:00 ] ::1 /thinkphp_hotel/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:32+08:00 ] ::1 /thinkphp_hotel/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:32+08:00 ] ::1 /thinkphp_hotel/Public/js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:32+08:00 ] ::1 /thinkphp_hotel/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:32+08:00 ] ::1 /thinkphp_hotel/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:25:33+08:00 ] ::1 /thinkphp_hotel/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Public
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:Css
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/css/svg_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+ERR: 无法加载模块:Css
+
+
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/images/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/images/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Css
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/images/r5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/images/r7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/images/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/images/r4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/images/r6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:26:28+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:28:24+08:00 ] ::1 /thinkphp_hotel/index.php/css/svg_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Css
+
+[ 2018-06-25T22:28:24+08:00 ] ::1 /thinkphp_hotel/index.php/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:Css
+
+[ 2018-06-25T22:28:24+08:00 ] ::1 /thinkphp_hotel/index.php/images/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:25+08:00 ] ::1 /thinkphp_hotel/index.php/css/Canvas_style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001639s ]
+ERR: 无法加载模块:Css
+
+[ 2018-06-25T22:28:25+08:00 ] ::1 /thinkphp_hotel/index.php/images/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:25+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:28:25+08:00 ] ::1 /thinkphp_hotel/index.php/images/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:25+08:00 ] ::1 /thinkphp_hotel/index.php/images/r4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:25+08:00 ] ::1 /thinkphp_hotel/index.php/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Css
+
+[ 2018-06-25T22:28:25+08:00 ] ::1 /thinkphp_hotel/index.php/images/r7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:25+08:00 ] ::1 /thinkphp_hotel/index.php/images/r6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:25+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:28:25+08:00 ] ::1 /thinkphp_hotel/index.php/images/r5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:26+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:28:26+08:00 ] ::1 /thinkphp_hotel/index.php/images/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:26+08:00 ] ::1 /thinkphp_hotel/index.php/images/r5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:26+08:00 ] ::1 /thinkphp_hotel/index.php/images/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:26+08:00 ] ::1 /thinkphp_hotel/index.php/images/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:27+08:00 ] ::1 /thinkphp_hotel/index.php/images/r4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:27+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:28:26+08:00 ] ::1 /thinkphp_hotel/index.php/images/r6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:27+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/scroll_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:28:31+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:28:31+08:00 ] ::1 /thinkphp_hotel/index.php/images/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:31+08:00 ] ::1 /thinkphp_hotel/index.php/images/r4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:31+08:00 ] ::1 /thinkphp_hotel/index.php/images/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:31+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/scroll_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:28:31+08:00 ] ::1 /thinkphp_hotel/index.php/images/r5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:31+08:00 ] ::1 /thinkphp_hotel/index.php/images/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:31+08:00 ] ::1 /thinkphp_hotel/index.php/images/r7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:31+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002129s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:28:38+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:28:38+08:00 ] ::1 /thinkphp_hotel/index.php/images/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001798s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:38+08:00 ] ::1 /thinkphp_hotel/index.php/images/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:38+08:00 ] ::1 /thinkphp_hotel/index.php/images/r6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:38+08:00 ] ::1 /thinkphp_hotel/index.php/images/r4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:38+08:00 ] ::1 /thinkphp_hotel/index.php/images/r5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001173s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:38+08:00 ] ::1 /thinkphp_hotel/index.php/images/r7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:38+08:00 ] ::1 /thinkphp_hotel/index.php/images/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:28:38+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/scroll_bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:28:38+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:30:17+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:30:17+08:00 ] ::1 /thinkphp_hotel/index.php/images/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:17+08:00 ] ::1 /thinkphp_hotel/index.php/images/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:17+08:00 ] ::1 /thinkphp_hotel/index.php/images/r7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:17+08:00 ] ::1 /thinkphp_hotel/index.php/images/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:17+08:00 ] ::1 /thinkphp_hotel/index.php/images/r6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:17+08:00 ] ::1 /thinkphp_hotel/index.php/images/r4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:17+08:00 ] ::1 /thinkphp_hotel/index.php/images/r5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:17+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001971s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:30:22+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:30:22+08:00 ] ::1 /thinkphp_hotel/index.php/images/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:22+08:00 ] ::1 /thinkphp_hotel/index.php/images/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:22+08:00 ] ::1 /thinkphp_hotel/index.php/images/r7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:22+08:00 ] ::1 /thinkphp_hotel/index.php/images/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:22+08:00 ] ::1 /thinkphp_hotel/index.php/images/r6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:22+08:00 ] ::1 /thinkphp_hotel/index.php/images/r5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:22+08:00 ] ::1 /thinkphp_hotel/index.php/images/r4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:30:22+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005543s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:31:24+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:31:24+08:00 ] ::1 /thinkphp_hotel/index.php/images/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:31:24+08:00 ] ::1 /thinkphp_hotel/index.php/images/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:31:24+08:00 ] ::1 /thinkphp_hotel/index.php/images/r4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:31:24+08:00 ] ::1 /thinkphp_hotel/index.php/images/r6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:31:24+08:00 ] ::1 /thinkphp_hotel/index.php/images/r7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001323s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:31:24+08:00 ] ::1 /thinkphp_hotel/index.php/images/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+ERR: 无法加载模块:Images
+
+[ 2018-06-25T22:31:24+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:32:38+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:32:38+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:38+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:38+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:38+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:38+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:38+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:32:40+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:32:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:40+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:32:54+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:32:54+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:54+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:54+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002671s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:54+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:54+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:54+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicimages/r4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:32:54+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:32:55+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:32:55+08:00 ] ::1 /thinkphp_hotel/index.php/js/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+ERR: 无法加载模块:Js
+
+[ 2018-06-25T22:36:41+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicjs/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:36:41+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicjs/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003357s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:36:44+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicjs/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:36:45+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicjs/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:36:52+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicjs/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:36:52+08:00 ] ::1 /thinkphp_hotel/Application/Home/Publicjs/svg_index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:36:58+08:00 ] ::1 /thinkphp_hotel/index.php/online_reserve.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Online_reserve
+
+[ 2018-06-25T22:58:32+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/admin/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:58:32+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/admin/css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:58:33+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/admin/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T22:58:33+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/admin/css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:01:28+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:01:28+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003239s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:14+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:14+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:14+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:18+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:18+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001109s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:18+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:20+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:20+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:20+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:21+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:21+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:09:21+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:10:43+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:10:43+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:10:43+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:10:47+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:10:47+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:10:47+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:11:06+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:11:06+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:11:06+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:11:24+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:11:24+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:11:24+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:13:18+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:13:18+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:13:18+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:13:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:13:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002619s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:13:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001553s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:13:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:13:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:13:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:14:28+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:14:28+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001879s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:14:28+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:14:34+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:14:34+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:14:34+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002952s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:14:36+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:14:36+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:14:36+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:15:56+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:15:56+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:15:56+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:18:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:18:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:18:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:18:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:18:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:18:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:20:21+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:20:21+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:20:21+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:20:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:20:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:20:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:23:16+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:23:16+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:23:16+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000186s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002648s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:23:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:23:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:23:19+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001899s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:24:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:24:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:24:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:25:59+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:25:59+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001425s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:25:59+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:02+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:02+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:02+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002254s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:17+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:17+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:17+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002310s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:39+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:39+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:39+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:42+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:42+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:42+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002378s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:52+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:52+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:52+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:55+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:55+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:26:55+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:27:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:27:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:27:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:27:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:27:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:27:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:27:30+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:27:30+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001864s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:27:30+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:28:15+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:28:15+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:28:15+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000316s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003406s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:28:17+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:28:17+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:28:17+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:38:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:38:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:38:26+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:38:32+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:38:32+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:38:32+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:40:52+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:40:52+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:40:53+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:44:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:44:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:44:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:44:39+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:44:39+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:44:39+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:45:17+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:45:17+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:45:17+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:48:10+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:48:10+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001663s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:48:10+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:48:28+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:48:28+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:48:28+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:49:01+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:49:01+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:49:01+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:49:15+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:49:15+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005512s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:49:15+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001512s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:52:51+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:52:51+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:52:51+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:53:03+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:53:04+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001432s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:53:04+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002317s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:53:37+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:53:37+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:53:37+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:53:53+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:53:53+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001462s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:53:53+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:54:02+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:54:02+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:54:02+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:54:35+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:54:35+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:54:35+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:54:49+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:54:49+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:54:49+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:57:30+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:57:30+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:57:30+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:57:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:57:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:57:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:57:52+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:57:52+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:57:52+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:15+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:15+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:16+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:25+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003767s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:40+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:59+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:59+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:58:59+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:59:18+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/images/tab-thbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:59:18+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+ERR: 无法加载模块:Application
+
+[ 2018-06-25T23:59:18+08:00 ] ::1 /thinkphp_hotel/Application/Home/Public/fonts/icomoon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Application
+

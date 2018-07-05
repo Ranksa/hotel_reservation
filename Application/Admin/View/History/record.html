@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>酒店后台管理</title>
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+  <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+</head>
+<body>
+<include file="Public/head" />
+  <div class="container clearfix">
+    <include file="Public/left" />
+    <include file="Public/right" />
+    <!--/sidebar-->
+    <div class="main-wrap">
+      <div class="crumb-wrap">
+        <div class="crumb-list"><i class="icon-font"></i><a href="__MODULE__/index">后台管理</a><span class="crumb-step">&gt;</span><span class="crumb-name">入住查询</span></div>
+      </div>
+      <center>
+      <div class="search-wrap">
+        <div class="search-content">
+          <form action="__CONTROLLER__/record" method="post">
+            <table class="search-tab">
+              <tr>
+                <th>查询条件</th>
+                <td>
+                  <select name="search-type" id="">
+                    <option value="roomid" selected>房间号</option>
+                    <option value="orderid" >订单号</option>
+                    <option value="cardid">证件号</option>
+                    <option value="linkman">姓名</option>
+                    <option value="phone">联系电话</option>
+                  </select>
+                </td>
+                <th width="70">关键字</th>
+                <td><input class="common-text" placeholder="请输入相应关键字" name="keywords" value="" id="" type="text"></td>
+                <td><input class="btn btn-primary btn2" name="sub" value="查询入住" type="submit"></td>
+              </tr>
+            </table>
+          </form>
+        </div>
+      </div>
+       </center>
+      <div class="result-wrap">
+        <div class="result-content">
+          <table class="result-tab" width="100%">
+            <tr>
+              <th class="tc">订单流水</th>
+              <th class="tc">房间号</th>
+              <th class="tc">证件号</th>
+              <th class="tc">入住时间</th>
+              <th class="tc">离开时间</th>
+              <th class="tc">房间类型</th>
+              <th class="tc">联系人</th>
+              <th class="tc">联系电话</th>
+              <th class="tc">网上预定</th>
+              <th class="tc">完成交易</th-->
+            </tr>
+            <volist name="list" id="vo">
+              <tr>
+                <th class="tc">{$vo.orderid}</th>
+                <th class="tc">{$vo.roomid}</th>
+                <th class="tc">{$vo.cardid}</th>
+                <th class="tc">{$vo.entertime}</th>
+                <th class="tc">{$vo.leavetime}</th>
+                <th class="tc">{$vo.typename}</th>
+                <th class="tc">{$vo.linkman}</th>
+                <th class="tc">{$vo.phone}</th>
+                <th class="tc">{$vo.ostatus}</th>
+                <th class="tc">{$vo.oremarks}</th>
+              </tr>
+            </volist>
+          </table>
+
+        </div>
+      </div>
+    </div>
+    <!--/main-->
+  </div>
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>酒店后台管理</title>
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+  <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+</head>
+<body>
+<include file="Public/head" />
+  <div class="container clearfix">
+    <include file="Public/left" />
+    <include file="Public/right" />
+    <!--/sidebar-->
+    <div class="main-wrap">
+      <div class="crumb-wrap">
+        <div class="crumb-list"><i class="icon-font"></i><a href="__MODULE__/index">后台管理</a><span class="crumb-step">&gt;</span><span class="crumb-name">入住统计</span></div>
+      </div>
+      <div class="result-wrap">
+        <div class="result-content">
+        <br><br><br>
+        <table border="0" width="100%">
+          
+          <tr>
+           <hr  />
+            <th class="tc"><span style="font-size: 24px;">房间统计</span></th>
+          </tr>
+          <tr>
+            <th class="tc">
+              <table class="result-tab" width="100%">
+                <tr>
+                  <td class="td_bg">房型总数（个）</td>
+                  <td class="td_bg">床位总数（个）</td>
+                  <td class="td_bg">房间总数（间）</td>
+                  <td class="td_bg">房间剩余（间）</td>
+                </tr>
+                  <volist name="list1" id="vo">
+                      <td class="td_bg">{$vo.count(typeid)}</td>
+                      <td class="td_bg">{$vo.sum(bednum)}</td>
+                      <td class="td_bg">{$vo.sum(totalnum)}</td>
+                      <td class="td_bg">{$vo.sum(leftnum)}</td>
+                  </volist>
+              </table>
+            </th>
+          </tr>
+
+        </table>
+        <br><br><br><br><br>
+        <table border="0" width="100%">
+          <tr>
+            <hr  />
+            <th class="tc"><span style="font-size: 24px;">营业统计</span></th>
+          </tr>
+          <tr>
+            <th class="tc">
+              <table class="result-tab" width="100%">
+                <tr>
+                 <td class="td_bg">订单总数（个）</td>
+                  <td class="td_bg">总营业额（元）</td>
+                </tr>
+                <volist name="list2" id="vo">
+                    <td class="td_bg">{$vo.count(orderid)}</td>
+                    <td class="td_bg">{$vo.sum(monetary)}</td>
+                </volist>
+              </table>
+              <br><br><br><br><br>
+            </th>
+           
+          </tr>
+        </table>
+        </div>
+      </div>
+    </div>
+    <!--/main-->
+  </div>
+</body>
+</html>
