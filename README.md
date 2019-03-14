@@ -2,7 +2,7 @@
 A hotel reservation system
 
 
-=============安装步骤
+安装步骤
 1、在mysql中建立一个数据库hotel，数据库编码为utf8-bin
 
 2、将hotel.sql导入到新建的hotel数据库中
