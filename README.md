@@ -1,4 +1,4 @@
-# hotel_reservation
+# hotel_reservation 基于thinkphp
 A hotel reservation system
 
 
